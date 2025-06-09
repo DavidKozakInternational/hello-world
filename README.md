@@ -1,4 +1,4 @@
-# hello-world
+# DKI sro
 
 This repository demonstrates the GitHub Flow workflow and will eventually contain a small utility for organizing files automatically.
 
